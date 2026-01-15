@@ -1,0 +1,2 @@
+1. please make internal link, when click "Number Card Section" and "FAQ Section" from menu bar go to their section respectively.
+2. for faq section, please add the click event in title.
